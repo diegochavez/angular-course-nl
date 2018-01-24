@@ -1,0 +1,70 @@
+{
+    "beers": [
+        {
+            "id": 1,
+            "name": "Alfa Edel Pils",
+            "alcoholPercentage": 6,
+            "brand": "Alfa"
+        },
+        {
+            "id": 2,
+            "name": "Amstel Gold",
+            "alcoholPercentage": 7,
+            "brand": "Amstel"
+        },
+        {
+            "id": 3,
+            "name": "Amstel Larger",
+            "alcoholPercentage": 5,
+            "brand": "Amstel"
+        },
+        {
+            "id": 4,
+            "name": "Amstel Larger",
+            "alcoholPercentage": 5,
+            "brand": "Amstel"
+        },
+        {
+            "id": 5,
+            "name": "Amsterdam Maximator",
+            "alcoholPercentage": 11,
+            "brand": "Amstel"
+        },
+        {
+            "id": 6,
+            "name": "Hertog Jan Dubbel",
+            "alcoholPercentage": 7,
+            "brand": "Arcense Bierbrouwerij"
+        },
+        {
+            "id": 7,
+            "name": "Hertog Jan Tripel",
+            "alcoholPercentage": 8.5,
+            "brand": "Arcense Bierbrouwerij"
+        },
+        {
+            "id": 8,
+            "name": "Karakter",
+            "alcoholPercentage": 7.5,
+            "brand": "Arcense Bierbrouwerij"
+        },
+        {
+            "id": 9,
+            "name": "Witte Raaf",
+            "alcoholPercentage": 5,
+            "brand": "Arcense Bierbrouwerij"
+        },
+        {
+            "id": 10,
+            "name": "Bavaria 8.6",
+            "alcoholPercentage": 8.6,
+            "brand": "Bavaria"
+        },
+        {
+            "id": 11,
+            "name": "Bavaria Hollandia",
+            "alcoholPercentage": 3,
+            "brand": "Bavaria"
+        }
+    ]
+}
