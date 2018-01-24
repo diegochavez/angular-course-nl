@@ -22,3 +22,16 @@ Run the Websocket Server
 ### About the course
 
 You need to build a waiter app to take orders from clients, this menu only have beers :D
+
+## Step 1
+
+Install Angular CLI
+
+`npm install -g @angular/cli`
+
+On angular-course-nl directory open the terminal 
+
+Create the project 
+
+`ng new waiter-app`
+
